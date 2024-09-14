@@ -7,7 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am currently a second-year Ph.D. student at the Department of Information Engineering, The Chinese University of Hong Kong (CUHK), under the supervision of Prof. [Angela Yingjun Zhang](https://staff.ie.cuhk.edu.hk/~yjzhang/) (IEEE Fellow). Prior to CUHK, I received my B.Eng. degree from University of Electronic Science and Technology of China (UESTC) in 2023, advised by Prof. [Xiaojun Yuan](https://scholar.google.com.hk/citations?user=o6W_m00AAAAJ&hl=en). 
+<div style="text-align: justify;">
+
+Welcome! I am currently a second-year Ph.D. student at the Department of Information Engineering, The Chinese University of Hong Kong (CUHK), under the supervision of Prof. [Angela Yingjun Zhang](https://staff.ie.cuhk.edu.hk/~yjzhang/) (_IEEE Fellow_). Prior to CUHK, I received my B.Eng. degree (with Honors) from University of Electronic Science and Technology of China (UESTC) in 2023, advised by Prof. [Xiaojun Yuan](https://scholar.google.com.hk/citations?user=o6W_m00AAAAJ&hl=en). 
 
 My research interests lies in edge intelligence and 6G, including but not limited to federated learning, UAV communications, robust machine learning at edge.
 
@@ -51,3 +53,5 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+</div>
