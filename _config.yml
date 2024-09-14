@@ -21,7 +21,7 @@ repository               : "xiangyu-zhong/xiangyu-zhong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo.png"
+  avatar           : "photo.jpeg"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
