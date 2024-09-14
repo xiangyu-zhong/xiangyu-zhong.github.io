@@ -21,12 +21,12 @@ repository               : "xiangyu-zhong/xiangyu-zhong.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo2.png"
+  avatar           : "photo.png"
   name             : "Xiangyu Zhong"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. student"
+  bio              : "Ph.D. student@CUHK"
   location         : "SHB 826"
-  employer         : "CUHK"
+  employer         : # "CUHK"
   uri              : # URL
   email            : "xyzhong@ie.cuhk.edu.hk" 
 
