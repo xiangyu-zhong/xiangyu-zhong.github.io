@@ -12,7 +12,7 @@ redirect_from:
 - Fundamental Research
 
 <br>
-
+<br>
 ## Social Services
 - Initiator and President, Graceland Music Club, CUHK, 10/2023-09/2024
 - General Administrator, Postgraduate Hall Residents’ Association, CUHK, 10/2023-09/2024
