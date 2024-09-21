@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xiangyu Zhong"
+title                    : "Joe Xiangyu Zhong"
 title_separator          : "-"
 name                     : &name "Xiangyu Zhong"
 description              : &description "personal description"
@@ -23,7 +23,7 @@ icon                      : "cuhk/cuhksmall.png"
 author:
   # Biographic information
   avatar           : "cuhk/photo2.png"
-  name             : "Xiangyu Zhong"
+  name             : "Joe Xiangyu Zhong"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. student@CUHK"
   location         : "SHB, Shatin, N.T., HK"
