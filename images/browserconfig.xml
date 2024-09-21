@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+<!-- <?xml version="1.0" encoding="utf-8"?>
 <browserconfig>
   <msapplication>
     <tile>
@@ -9,4 +9,14 @@
       <TileColor>#000000</TileColor>
     </tile>
   </msapplication>
+</browserconfig> -->
+
+<?xml version="1.0" encoding="utf-8"?>
+<browserconfig>
+    <msapplication>
+        <tile>
+            <square150x150logo src="/cuhksmall.png"/>
+            <TileColor>#da532c</TileColor>
+        </tile>
+    </msapplication>
 </browserconfig>
