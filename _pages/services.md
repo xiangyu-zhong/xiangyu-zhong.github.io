@@ -2,7 +2,7 @@
 layout: archive
 permalink: /services/
 title: "Services"
-author_profile: true
+author_profile: false
 redirect_from:
   - /service
 ---
