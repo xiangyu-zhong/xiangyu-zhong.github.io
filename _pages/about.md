@@ -24,6 +24,6 @@ Recent News:
 
 
 
-Visitors
-=======
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=250&t=n&d=gkUgx_rJxyGnlm9h49vUyEn8lS4ZIy-1rPBbiEUZCKY&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080'></script>
+
+
+<<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=htdlKm2ihfowwHJZQBxZ2S9D7hOM1gC6-FB9fzTTXog&cl=ffffff&w=a"></script>
