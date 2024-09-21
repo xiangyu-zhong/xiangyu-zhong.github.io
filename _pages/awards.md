@@ -1,8 +1,10 @@
 ---
-layout: archive
-title: "Awards"
-permalink: /awards/
+permalink: /
+title: ""
 author_profile: true
+redirect_from: 
+  - /awards/
+  - /awards.html
 ---
 
 
