@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "Services"
 author_profile: true
 redirect_from: 
   - /services/
