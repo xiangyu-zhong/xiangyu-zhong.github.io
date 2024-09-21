@@ -10,4 +10,5 @@ redirect_from:
 
 
 
+- CUHK Vice-Chancellor Ph.D. Scholarship
 - National Scholarship
