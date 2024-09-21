@@ -15,7 +15,7 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="/cuhksmall.png"/>
+            <square150x150logo src="cuhk/cuhksmall.png"/>
             <TileColor>#da532c</TileColor>
         </tile>
     </msapplication>
