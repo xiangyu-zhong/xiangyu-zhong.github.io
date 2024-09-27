@@ -24,5 +24,5 @@ University of Electronic Science and Technology of China, 2023
 **National Scholarship** (highest honor in China)  
 Ministry of Education of China, 2022 & 2020
 
-**Outstanding Winner & AMS Award** (highest award, 0.08% & 0.014 globally)  
+**Outstanding Winner & AMS Award** (highest award, 0.08% & 0.014% globally)  
 American Mathematical Contest in Modeling & Interdisciplinary Contest in Modeling, 2021
