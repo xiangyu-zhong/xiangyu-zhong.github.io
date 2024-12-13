@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-**Outstanding Students Awards**
+**Outstanding Students Awards**  
 The Chinese University of Hong Kong, 2024
 
 **Second Prize, Four Minute Thesis Competition**  
