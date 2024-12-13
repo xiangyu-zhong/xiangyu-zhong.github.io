@@ -14,7 +14,8 @@ redirect_from:
 <br>
 
 ## Social Services
-- Initiator and President, Graceland Music Club, CUHK, 10/2023-09/2024
+- Secretariat Member, UESTC Hong Kong Alumni Association, 09/2024- 
+- Founder and President, Graceland Music Club, CUHK, 10/2023-09/2024
 - General Administrator, Postgraduate Hall Residents’ Association, CUHK, 10/2023-09/2024
 - President, Sunshine Volunteer Association, UESTC, 07/2021-07-2022
 - Class President, Liren Leadership Class, UESTC, 09/2020-03/2022
