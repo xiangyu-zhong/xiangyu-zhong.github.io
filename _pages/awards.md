@@ -23,8 +23,14 @@ The Chinese University of Hong Kong, 2023
 **The Most Outstanding Students Award of UESTC** (highest honor in UESTC)  
 University of Electronic Science and Technology of China, 2023
 
+**Outstanding Graduate of Sichuan Province**  
+Department of Education of Sichuan Province, 2023
+
 **National Scholarship** (highest honor in China)  
-Ministry of Education of China, 2022 & 2020
+Ministry of Education of China, 2022
 
 **Outstanding Winner & AMS Award** (highest award, 0.08% & 0.014% globally)  
 American Mathematical Contest in Modeling & Interdisciplinary Contest in Modeling, 2021
+
+**National Scholarship** (highest honor in China)  
+Ministry of Education of China, 2020
