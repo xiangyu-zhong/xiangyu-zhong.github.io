@@ -16,6 +16,7 @@ My research interests lies in edge intelligence and 6G, including but not limite
 
 Recent News:
 ======
+- [12/2024] Received the Outstanding Students Awards by CUHK.
 - [06/2024] Won the Second Prize at 4MT Competition, IEEE Communications Society, in Denver, CO, USA. 
 - [06/2024] Awarded the Talent Development Scholarship by HKSAR government.
 - [08/2023] Received CUHK Vice-Chancellor's PhD Scholarship and started my Ph.D. journey in CUHK!
