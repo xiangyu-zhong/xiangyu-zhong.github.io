@@ -13,6 +13,15 @@ redirect_from:
 }
 </style>
 
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+    var clustrmaps = document.getElementById('clustrmaps');
+    if (clustrmaps) {
+        clustrmaps.style.display = 'none';
+    }
+});
+</script>
+
 
 # About Me
 Welcome! I am currently a second-year Ph.D. student at the Department of Information Engineering, The Chinese University of Hong Kong (CUHK), supervised by Prof. [Angela Yingjun Zhang](https://staff.ie.cuhk.edu.hk/~yjzhang/) (_IEEE Fellow_). Prior to CUHK, I received my B.Eng. degree (with Honors) from University of Electronic Science and Technology of China (UESTC) in 2023, advised by Prof. [Xiaojun Yuan](https://scholar.google.com.hk/citations?user=o6W_m00AAAAJ&hl=en). 
