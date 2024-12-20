@@ -7,19 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-#clustrmaps {
-    display: none;
-}
-</style>
-
-<script>
-document.addEventListener("DOMContentLoaded", function() {
-    var clustrmaps = document.getElementById('clustrmaps');
-    if (clustrmaps) {
-        clustrmaps.style.display = 'none';
-    }
-});
+<script type='text/javascript'>
+    document.addEventListener("DOMContentLoaded", function() {
+        var clustrmaps = document.getElementById('clustrmaps');
+        if (clustrmaps) {
+            clustrmaps.style.display = 'none';
+        }
+    });
 </script>
 
 
