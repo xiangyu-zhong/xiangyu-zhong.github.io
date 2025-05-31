@@ -11,7 +11,7 @@ redirect_from:
 <img src="http://xiangyu-zhong.github.io/images/publications/ICML25-2.png" align="left" width="240" style="margin-right: 20px;"/> 
 <b>[ICML'25]</b> <br>
 <b>Momentum-Driven Adaptivity: Towards Tuning-Free Asynchronous Federated Learning</b><br>
-Wenjing Yan, <b>Xiangyu Zhong</b>*, Xiaolu Wang*,Ying-jun Angela Zhang  <br>
+Wenjing Yan, <b>Xiangyu Zhong</b>\*, Xiaolu Wang\*,Ying-jun Angela Zhang  <br>
 <i>Proceedings of the 42nd International Conference on Machine Learning </i> <br>
 <span style="color:red">  </span>   
 <br clear="left"/>
