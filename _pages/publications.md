@@ -25,4 +25,4 @@ Wenjing Yan, <b>Xiangyu Zhong</b>\*, Xiaolu Wang\*,Ying-jun Angela Zhang  <br>
 <br clear="left"/>
 
 
-<div style="text-align: right;">*Corresponding author</div>
+*Corresponding author
