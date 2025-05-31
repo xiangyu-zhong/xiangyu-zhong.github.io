@@ -17,6 +17,7 @@ My research interests lies in edge intelligence and 6G, including but not limite
 
 Recent News:
 ======
+- [05/2025] One paper is accepted by ICML. Thanks to co-authors. See you in Vancouver!
 - [12/2024] Received the Outstanding Students Awards by CUHK.
 - [06/2024] Won the Second Prize at 4MT Competition, IEEE Communications Society, in Denver, CO, USA. 
 - [06/2024] Awarded the Talent Development Scholarship by HKSAR government.
