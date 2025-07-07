@@ -1,12 +1,13 @@
 ---
 layout: archive
 permalink: /publications/
-title: "Publications"
+title: "Selected Publications"
 author_profile: false
 redirect_from:
   - /publication
 ---
 
+For the full list of publications, please see my [Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=6r-MsWMAAAAJ).
 
 <img src="http://xiangyu-zhong.github.io/images/publications/ICML25-2.png" align="left" width="240" style="margin-right: 20px;"/> 
 <b>[ICML'25]</b>  <i>[[PDF]](https://openreview.net/pdf?id=cgHfR7bt0V)</i> <br>
