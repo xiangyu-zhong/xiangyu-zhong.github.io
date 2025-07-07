@@ -14,7 +14,7 @@ redirect_from:
 _Ph.D., Information Engineering_ _(**with CUHK Vice-Chancellor's PhD Scholarship**)_  
 Supervisor: Ying-Jun Angela Zhang, *IEEE Fellow*
 
-**University of Electronic Science and Technology of China (UESTC)**             _Sept. 2019 – Jun. 2023, Chengdu, China_  
+**University of Electronic Science and Technology of China (UESTC)**            <span style="float:right;">  _Sept. 2019 – Jun. 2023, Chengdu, China_</span>     
 *School of Information and Communication Engineering (SICE)*  
 _(Honghu Elite Project, National Key Laboratory on Wireless Communications, UESTC)_  
 *B.Eng. (**with Honors**), Communication Engineering*  
