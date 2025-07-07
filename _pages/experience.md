@@ -1,11 +1,13 @@
 ---
 layout: archive
-permalink: /education/
-title: "Education"
+permalink: /experience/
+title: "Experience"
 author_profile: false
 redirect_from:
-  - /education
+  - /experience
 ---
+
+
 
 **The Chinese University of Hong Kong (CUHK)**                               <span style="float:right;"> _Aug. 2023 – Present, Hong Kong SAR_</span>   
 *Department of Information Engineering*  
