@@ -6,7 +6,7 @@ author_profile: false
 redirect_from:
   - /publication
 ---
-*Corresponding author
+
 
 ## Conference Paper
 <img src="http://xiangyu-zhong.github.io/images/publications/ICML25-2.png" align="left" width="240" style="margin-right: 20px;"/> 
@@ -27,3 +27,4 @@ Wenjing Yan, <b>Xiangyu Zhong</b>\*, Xiaolu Wang\*,Ying-jun Angela Zhang  <br>
 
 
 
+*Corresponding author
