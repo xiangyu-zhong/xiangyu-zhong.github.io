@@ -29,13 +29,13 @@ Department of Education of Sichuan Province, 2023
 **National Scholarship** (highest honor in China)  
 Ministry of Education of China, 2022
 
-**Outstanding Winner (highest award, 0.08% globally)  
+**Outstanding Winner** (highest award, 0.08% globally)  
 American Mathematical Contest in Modeling & Interdisciplinary Contest in Modeling, 2021
 
 **AMS Award** (0.014% globally)  
 American Mathematical Society, Interdisciplinary Contest in Modeling, 2021
 
-**Tang Lixin Scholarship** (highest enterprise scholarship)
+**Tang Lixin Scholarship** (highest enterprise scholarship)  
 Tang Lixin Education Foundation, 2021
 
 **National Scholarship** (highest honor in China)  
