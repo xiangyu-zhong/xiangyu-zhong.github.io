@@ -22,7 +22,7 @@ Recent News:
 - [06/2024] Won the Second Prize at 4MT Competition, IEEE Communications Society, in Denver, CO, USA. 
 - [06/2024] Awarded the Talent Development Scholarship by HKSAR government.
 - [08/2023] Received CUHK Vice-Chancellor's PhD Scholarship and started my Ph.D. journey in CUHK!
-- [12/2022] Awarded the Most Outstanding Student Award of UESTC (10 of all graduates). Healtfelt thanks to everyone who supported and accompanied me along the past four years!
+- [12/2022] Awarded the Most Outstanding Students Award of UESTC (10 of all graduates). Healtfelt thanks to everyone who supported and accompanied me along the past four years!
 
 
 
