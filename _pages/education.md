@@ -7,7 +7,7 @@ redirect_from:
   - /education
 ---
 
-**The Chinese University of Hong Kong (CUHK)**                                _Aug. 2023 – Present, Hong Kong SAR_  
+**The Chinese University of Hong Kong (CUHK)**                               <span style="float:right;"> _Aug. 2023 – Present, Hong Kong SAR_</span>   
 *Department of Information Engineering*  
 _Ph.D., Information Engineering_ _(**with CUHK Vice-Chancellor's PhD Scholarship**)_  
 Supervisor: Ying-Jun Angela Zhang, *IEEE Fellow*
