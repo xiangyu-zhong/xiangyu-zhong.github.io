@@ -7,7 +7,7 @@ redirect_from:
   - /experience
 ---
 
-
+## Education
 
 **The Chinese University of Hong Kong (CUHK)**                               <span style="float:right;"> _Aug. 2023 – Present, Hong Kong SAR_</span>   
 *Department of Information Engineering*  
