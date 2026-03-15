@@ -9,7 +9,7 @@ redirect_from:
 
 
 # About Me
-Welcome! I am currently a second-year Ph.D. student at the Department of Information Engineering, The Chinese University of Hong Kong (CUHK), supervised by Prof. [Angela Yingjun Zhang](https://staff.ie.cuhk.edu.hk/~yjzhang/) (_IEEE Fellow_). Prior to CUHK, I received my B.Eng. degree (with Honors) from University of Electronic Science and Technology of China (UESTC) in 2023, advised by Prof. [Xiaojun Yuan](https://scholar.google.com.hk/citations?user=o6W_m00AAAAJ&hl=en). 
+Welcome! I am currently a third-year Ph.D. candidate at the Department of Information Engineering, The Chinese University of Hong Kong (CUHK), supervised by Prof. [Angela Yingjun Zhang](https://staff.ie.cuhk.edu.hk/~yjzhang/) (_IEEE Fellow_). Prior to CUHK, I received my B.Eng. degree (with Honors) from University of Electronic Science and Technology of China (UESTC) in 2023, advised by Prof. [Xiaojun Yuan](https://scholar.google.com.hk/citations?user=o6W_m00AAAAJ&hl=en) (_IEEE Fellow_). 
 
 My research lies at the intersection of **deep learning**, **wireless communication**, and **optimization**. I am focused on advancing **edge intelligence** with connectivity, robustness, adaptivity, and security. I am also passionate about score-based methods in **generative models** and **multimodal large models**, and their long-horizon scalable edge deployment in the future.
 
