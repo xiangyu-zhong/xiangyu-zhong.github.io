@@ -18,7 +18,7 @@ Supervisor: Ying-Jun Angela Zhang, *IEEE Fellow*
 *School of Information and Communication Engineering (SICE)*  
 _(Honghu Elite Project, National Key Laboratory on Wireless Communications, UESTC)_  
 *B.Eng. (**with Honors**), Communication Engineering*  
-GPA: 3.99/4.00, **Rank: 1/230**
+GPA: 3.99/4.00, **Rank: 1/230**  
 Advisor: Xiaojun Yuan, *IEEE Fellow*
 
 
