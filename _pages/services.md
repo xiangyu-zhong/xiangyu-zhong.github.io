@@ -15,7 +15,7 @@ redirect_from:
 - IEEE Wireless Communications Letters
 - IEEE Global Communications Conference (GLOBECOM)
 - IEEE Vehicular Technology Conference (VTC)
-- Fundamental Research
+<!-- - Fundamental Research -->
 - ...
 <br>
 <br>
