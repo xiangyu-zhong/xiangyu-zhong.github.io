@@ -2,7 +2,7 @@
 layout: archive
 permalink: /experience/
 title: "Experience"
-author_profile: false
+author_profile: true
 redirect_from:
   - /experience
 ---

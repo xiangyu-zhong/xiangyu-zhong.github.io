@@ -2,7 +2,7 @@
 layout: archive
 permalink: /awards/
 title: "Awards"
-author_profile: false
+author_profile: true
 redirect_from:
   - /award
 ---

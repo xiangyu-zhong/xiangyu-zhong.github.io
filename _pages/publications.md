@@ -2,7 +2,7 @@
 layout: archive
 permalink: /publications/
 title: "Selected Publications"
-author_profile: false
+author_profile: true
 redirect_from:
   - /publication
 ---
