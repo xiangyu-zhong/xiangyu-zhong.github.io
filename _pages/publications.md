@@ -9,19 +9,20 @@ redirect_from:
 
 *For the full list of publications, please see my [Google Scholar](https://scholar.google.com/citations?user=6r-MsWMAAAAJ).*
 
-<img src="https://xiangyu-zhong.github.io/images/publications/FedCova.png" align="left" width="240" style="margin-right: 20px;"/> 
-<b>[Under Review]</b> <i>[[PDF]](https://arxiv.org/abs/2603.04062)</i> <br>
-<b>FedCova: Robust Federated Covariance Learning Against Noisy Labels</b><br>
-<b>Xiangyu Zhong</b>, Xiaojun Yuan, Ying-Jun Angela Zhang  <br>
-<i>Under review, IEEE Transactions on Mobile Computing </i> <br>
-<span style="color:red">  </span>   
-<br clear="left"/>
 
 <img src="https://xiangyu-zhong.github.io/images/publications/ICML2026.png" align="left" width="240" style="margin-right: 20px;"/> 
 <b>[ICML'26]</b> <i>[[PDF]](https://openreview.net/pdf?id=kvTL1G2kHG)</i> <br>
 <b>Robust Federated Learning Against Adaptive Compression</b><br>
 Wenjing Yan, <b>Xiangyu Zhong</b>\*, Ying-Jun Angela Zhang  <br>
 <i>Proceedings of the 43rd International Conference on Machine Learning (ICML 2026) </i> <br>
+<span style="color:red">  </span>   
+<br clear="left"/>
+
+<img src="https://xiangyu-zhong.github.io/images/publications/FedCova.png" align="left" width="240" style="margin-right: 20px;"/> 
+<b>[FedCova]</b> <i>[[PDF]](https://arxiv.org/abs/2603.04062)</i> <br>
+<b>FedCova: Robust Federated Covariance Learning Against Noisy Labels</b><br>
+<b>Xiangyu Zhong</b>, Xiaojun Yuan, Ying-Jun Angela Zhang  <br>
+<i>Under review, IEEE Transactions on Mobile Computing </i> <br>
 <span style="color:red">  </span>   
 <br clear="left"/>
 
