@@ -34,13 +34,16 @@ Wenjing Yan, <b>Xiangyu Zhong</b>\*, Xiaolu Wang, Ying-jun Angela Zhang  <br>
 <span style="color:red">  </span>   
 <br clear="left"/>
 
-<img src="https://xiangyu-zhong.github.io/images/publications/TWC-W1-time.png" align="left" width="240" style="margin-right: 20px;"/> 
-<b>[TWC'25]</b> <i>[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11271111)</i> <br>
-<b>UAV Enabled Over-the-Air Federated Learning: A Hierarchical Aggregation Approach</b><br>
-<b>Xiangyu Zhong</b>, Chenxi Zhong, Xiaojun Yuan, Ying-Jun Angela Zhang  <br>
-<i>IEEE Transactions on Wireless Communications, vol. 25, pp. 8066–8082, 2025 </i> <br>
-<span style="color:red">  </span>   
-<br clear="left"/>
+<div style="display:flex; align-items:flex-start; gap:20px; margin-bottom:20px;">
+  <img src="https://xiangyu-zhong.github.io/images/publications/TWC-W1-time.png" width="240" style="flex:0 0 240px;"/>
+  <div style="flex:1; min-width:0;">
+    <b>[TWC'25]</b> <i>[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11271111)</i> <br>
+    <b>UAV Enabled Over-the-Air Federated Learning: A Hierarchical Aggregation Approach</b><br>
+    <b>Xiangyu Zhong</b>, Chenxi Zhong, Xiaojun Yuan, Ying-Jun Angela Zhang  <br>
+    <i>IEEE Transactions on Wireless Communications, vol. 25, pp. 8066–8082, 2025 </i> <br>
+    <span style="color:red">  </span>
+  </div>
+</div>
 
 <img src="http://xiangyu-zhong.github.io/images/publications/UAVFLmodel.png" align="left" width="240" style="margin-right: 20px;"/> 
 <b>[GLOBECOM'22]</b> <i>[[PDF]](https://ieeexplore.ieee.org/abstract/document/10001689)</i> <br>
