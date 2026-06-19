@@ -34,7 +34,7 @@ Wenjing Yan, <b>Xiangyu Zhong</b>\*, Xiaolu Wang, Ying-jun Angela Zhang  <br>
 <span style="color:red">  </span>   
 <br clear="left"/>
 
-<img src="https://xiangyu-zhong.github.io/images/publications/TWC-W1.png" align="left" width="240" style="margin-right: 20px;"/> 
+<img src="https://xiangyu-zhong.github.io/images/publications/TWC-W1-time.png" align="left" width="240" style="margin-right: 20px;"/> 
 <b>[TWC'25]</b> <i>[[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11271111)</i> <br>
 <b>UAV Enabled Over-the-Air Federated Learning: A Hierarchical Aggregation Approach</b><br>
 <b>Xiangyu Zhong</b>, Chenxi Zhong, Xiaojun Yuan, Ying-Jun Angela Zhang  <br>
