@@ -17,6 +17,9 @@ My research lies in **edge intelligence**, at the intersection of **learning**, 
 
 Recent News:
 ======
+- [05/2026] Awarded the ICML 2026 Golden Reviewer Award.
+- [05/2026] One paper is accepted by ICML'26. Thanks to co-authors!
+- [11/2025] One paper is accepted by IEEE Transactions on Wireless Communications (TWC).
 - [05/2025] One paper is accepted by ICML'25. Thanks to co-authors. See you in Vancouver!
 - [02/2025] Received the Outstanding Students Award by CUHK.
 - [06/2024] Won the Second Prize at 4MT Competition, IEEE Communications Society, in Denver, CO, USA. 
