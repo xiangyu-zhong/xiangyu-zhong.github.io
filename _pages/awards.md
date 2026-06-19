@@ -8,14 +8,18 @@ redirect_from:
 ---
 
 
+<!--
 **CUHK PhD International Mobility for Partnerships and Collaborations Award (IMPAC)**  
 The Chinese University of Hong Kong, 2026
+-->
 
 **ICML Golden Reviewer Award**  
 International Conference on Machine Learning, 2026
 
+<!--
 **CUHK Overseas Research Attachment Programme Scholarship (ORAP)**  
 The Chinese University of Hong Kong, 2026
+-->
 
 **Outstanding Students Award**  
 The Chinese University of Hong Kong, 2025
