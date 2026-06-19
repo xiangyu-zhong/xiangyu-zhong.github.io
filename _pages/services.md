@@ -9,7 +9,7 @@ redirect_from:
 ## Academic Services
 ### Reviewer
 - International Conference on Learning Representations (ICLR)
-- International Conference on Machine Learning (ICML), *awarded the* **Golden Reviewer Award**
+- International Conference on Machine Learning (ICML), *awarded the Golden Reviewer Award*
 - IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
 - IEEE Transactions on Wireless Communications (TWC)
 - IEEE Wireless Communications Letters
